@@ -1,0 +1,19 @@
+.leaflet-bottom.leaflet-right {
+    background-color: rgba(255, 255, 255, 0.4);
+    overflow: hidden;
+    border-radius: 13px;
+    backdrop-filter: blur(5px);
+    padding: 5px;
+}
+
+.info.legend {
+    padding: 3px;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.1);
+    font-size: medium;
+}
+
+
+.legend_name {
+    margin: 5px;
+}
